@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Meeting03 - LorenGenerator</string>
+    <string name="app_title">Loren Generator</string>
+    <string name="star_description">Big Yellow Star</string>
+    <string name="creatorbutton_name">confirm</string>
+    <string-array name="ipsum_array">
+        <item>Lorem</item>
+        <item>Bacon</item>
+        <item>Space</item>
+        <item>Sagan</item>
+    </string-array>
+</resources>
