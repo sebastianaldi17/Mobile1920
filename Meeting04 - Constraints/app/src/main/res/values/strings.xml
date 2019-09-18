@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Constraints</string>
+    <string name="box_one"> </string>
+    <string name="box_two"> </string>
+    <string name="box_three"> </string>
+    <string name="box_four"> </string>
+    <string name="box_five"> </string>
+
+    <string name="instruction_title">How to play:</string>
+    <string name="instruction_body">Tap any white area to reveal the image behind the area. If it is a star, you win!</string>
+
+    <string name="button_red">RED</string>
+    <string name="button_yellow">YELLOW</string>
+    <string name="button_green">GREEN</string>
+</resources>
