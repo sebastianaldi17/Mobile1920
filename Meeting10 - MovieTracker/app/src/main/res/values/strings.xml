@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Meeting10 - Movie Tracker</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_tracker">Movie Tracker</string>
+    <string name="add_a_movie">Add A Movie</string>
+    <string name="clear">clear</string>
+
+    <!--  Rating Strings  -->
+    <string name="how_was_hour_sleep">How was the movie?</string>
+    <string name="one">Very Bad</string>
+    <string name="two">Bad</string>
+    <string name="three">Mediocre</string>
+    <string name="four">Great</string>
+    <string name="five">Masterpiece</string>
+
+    <!-- Output to TextView styled with a little HTML -->
+    <string name="title"><![CDATA[<h3>Your Movies:</h3>]]></string>
+    <string name="movie_key"><![CDATA[<b>Movie Key:</b>]]></string>
+    <string name="movie_name"><![CDATA[<b>Movie Name:</b>]]></string>
+    <string name="quality"><![CDATA[<b>Quality:</b>]]></string>
+    <string name="rating">Rating</string>
+    <string name="movie_name_no_html">Movie Title</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="update_a_movie">Update a Movie</string>
+    <string name="movie_key_no_html">Movie Key</string>
+
+</resources>
